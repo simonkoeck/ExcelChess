@@ -3,7 +3,7 @@ Chess in Excel/VBA incl. Python AI
 
 
 
-Start Python AI
+- **Start Python AI**
 
 ```
 cd AI
